@@ -4,7 +4,7 @@
   <br>
 　　基于易语言编写杀软可能报毒，介意勿用
     <br>
-　　因为比较懒和健忘不想记jsdelivr的连接，找了没有发现这种贴入`github`的`releases`链接后自动转换成`jsdelivrCDN`连接的懒狗工具，所以自己搞了这玩意…
+　　因为比较懒和健忘不想记jsdelivr的连接，找了没有发现这种贴入`github`的`releases`链接后自动转换成`jsdelivrCDN`连接的懒狗工具（2021.10.20现在发现了…还是官方的https://www.jsdelivr.com/github），所以自己搞了这玩意…
     <br>
 　　没什么技术含量…就是单纯的多次替换链接中的关键词
     <br>
